@@ -1,0 +1,4 @@
+Django
+django-admin-thumbnails
+django-ckeditor
+Pillow
